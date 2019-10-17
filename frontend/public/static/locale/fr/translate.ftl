@@ -82,8 +82,6 @@ editor-KeyboardShortcuts--select-all-strings-shortcut = <mod1>Ctrl</mod1> + <mod
 editor-UnsavedChanges--close = ×
     .aria-label = Cacher les changements non-sauvegardés
 editor-UnsavedChanges--title = Vous avez des changements non-sauvegardés
-editor-UnsavedChanges--body = Voulez-vous vraiment quitter ?
-editor-UnsavedChanges--leave-anyway = Quitter quand même
 
 
 ## Entity Navigation
@@ -303,8 +301,6 @@ user-UserMenu--download-tm = <glyph></glyph>Télécharger la Mémoire de traduct
 user-UserMenu--download-translations = <glyph></glyph>Télécharger les traductions
 user-UserMenu--upload-translations = <glyph></glyph>Envoyer des traductions
 
-user-UserMenu--top-contributors = <glyph></glyph>Contributeurs et contributrices remarquables
-user-UserMenu--machinery = <glyph></glyph>Machinerie
 user-UserMenu--terms = <glyph></glyph>Conditions d’utilisation
 user-UserMenu--help = <glyph></glyph>Aide
 
